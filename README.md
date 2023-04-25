@@ -1,6 +1,6 @@
 # Quiz
 
-Projeto desenvolvido durante aula da B7 Web com o professor Bonieky. Foi desenvolvido com Html5, Css3 e Java Script.
+Projeto desenvolvido durante aula da B7 Web com o professor Bonieky. Foi desenvolvido com Html5, Css3 e JavaScript.
 <br>
 Link para teste: https://paulocatto.github.io/Quiz/
 <br><br>
